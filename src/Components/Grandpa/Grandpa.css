@@ -1,0 +1,14 @@
+.grandpa div{
+    border: 2px solid goldenrod;
+    padding: 10px;
+    margin: 10px;
+    border-radius: 15px;
+    
+}
+.grandpa{
+    border: 1px solid black;
+    
+}
+.flex{
+    display: flex;
+}

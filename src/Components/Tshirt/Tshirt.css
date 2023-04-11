@@ -1,0 +1,29 @@
+.image-container{
+    border-radius: 25px;
+    gap: 15px;
+    padding: 15px;
+    margin: 10px;
+    border: 1px solid lightcoral;
+    box-shadow: 2px 2px rgb(181, 181, 181), -1em 0 .4em rgb(165, 165, 165);
+};
+.tshirt{
+  
+}
+.tshirt img{
+   height: 250px;
+   border-radius: 15px;
+}
+.tshirt-details{
+    margin-top: 25px;
+}
+.tshirt-details .tshirt-title{
+    font-size: 24px;
+    font-weight: 500;
+}
+.tshirt-details p{
+    margin: 0;
+}
+.tshirt-details .buy-btn{
+    width: 90%;
+    background-color: burlywood;
+}
